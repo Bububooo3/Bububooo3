@@ -1,4 +1,12 @@
-## Hi there 👋
+## Who are you?
+> You know...
+
+
+## What do you like to do?
+> You know...
+
+## Who is your favorite musician?
+> Billy Joel.
 
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
