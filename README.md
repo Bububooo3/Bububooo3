@@ -1,9 +1,9 @@
 ## Who are you?
-> You know...
+> A living amalgam of flesh and bone
 
 
 ## What do you like to do?
-> You know...
+> I really like to sleep
 
 ## Who is your favorite musician?
 > Billy Joel.
