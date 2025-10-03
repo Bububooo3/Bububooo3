@@ -1,12 +1,13 @@
 ## Who are you?
-> A living amalgam of flesh and bone
+> An adopted son of God
 
 
 ## What do you like to do?
-> I really like to sleep
+> I really like to sleep and make people feel good
 
 ## Who is your favorite musician?
-> Billy Joel.
+> Super hard question to answer...
+> Gorillaz?
 
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
