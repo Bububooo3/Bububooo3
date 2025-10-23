@@ -6,8 +6,7 @@
 > I really like to sleep and make people feel good
 
 ## Who is your favorite musician?
-> Super hard question to answer...
-> Gorillaz?
+> Billy Joel!
 
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
