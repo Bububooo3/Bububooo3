@@ -1,5 +1,5 @@
 ## Who are you?
-> An adopted son of God
+> An adopted son of God (AMDG!)
 >
 > Your worst nightmare
 >
