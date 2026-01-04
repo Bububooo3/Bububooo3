@@ -1,5 +1,7 @@
+> Ad Majorem Dei Gloriam ✌😁
+
 ## Who are you?
-> An adopted son of God (AMDG!)
+> An adopted son of God
 >
 > Your worst nightmare
 >
