@@ -1,4 +1,6 @@
-> Ad Majorem Dei Gloriam ✌😁
+<hr>
+Ad Majorem Dei Gloriam ✌😁
+<hr>
 
 ## Who are you?
 > An adopted son of God
@@ -15,6 +17,8 @@
 ## Who is your favorite musician?
 > Billy Joel!
 
+
+<hr>
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
