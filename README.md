@@ -2,6 +2,10 @@
 Ad Majorem Dei Gloriam ✌😁
 <hr>
 
+ **[ [Roblox Account GitHub](https://github.com/Dynamo-rblx) ] [ [Replit Account](https://replit.com/@BlehHi) ] [ [Google Dev Profile](https://g.dev/Retroid) ]**
+
+<hr>
+
 ## Who are you?
 > An adopted son of God
 >
