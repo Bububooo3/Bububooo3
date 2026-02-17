@@ -31,8 +31,6 @@ Ad Majorem Dei Gloriam 🙏
 
 </span>
 
-> on 2/17/2026
-
 <hr>
 
 <!--
