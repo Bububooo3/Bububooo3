@@ -25,7 +25,7 @@
 
 </span>
 
-> (43 repos overall under this account, so idk if it executed properly)
+> (43 repos overall under this account, so idk if it executed fully)
 
 <hr>
 
