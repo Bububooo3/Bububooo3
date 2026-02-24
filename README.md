@@ -29,6 +29,8 @@
 
 <hr>
 
+> **My pins are just my works that I'm most excited about at the moment**
+
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
