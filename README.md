@@ -15,18 +15,6 @@
 ## Who is your favorite musician?
 > Billy Joel!
 
-
-<hr>
-
-<span>
-
-<img src="overview.svg" alt="" />
-<img src="languages.svg" alt="" />
-
-</span>
-
-> (45+ repos overall under this account, so idk if it executed fully) (as of feb 17 '26)
-
 <hr>
 
 > **My pins are just my works that I'm most excited about at the moment**
