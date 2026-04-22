@@ -1,23 +1,24 @@
 <hr>
 
 ## Who even are you?
-> An adopted son of God
->
-> "Your worst nightmare"
->
-> I asked you first
+> A person who tried web dev briefly in 2018 (and took related classes in following years), left it for game dev later that year, and decided to take game and software development a little more seriously after a few years coding and learning to navigate the semi-professional wild west that is the Roblox developer market.
 
+## What languages do you use?
+> Game development: Lua, Luau
+> 
+> Software development: Lua, Java, C++, Python
+> 
+> Web development: HTML5, CSS, JS (straight vanilla)
+>
+> Esoteric: BF
 
 ## What do you like to do?
-> I really like to sleep and make people feel joy
-
+> I really like to sleep and learn and make people feel joy
 
 ## Who is your favorite musician?
 > Billy Joel!
 
 <hr>
-
-> **My pins are just my works that I'm most excited about at the moment**
 
 <!--
 **Bububooo3/Bububooo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
