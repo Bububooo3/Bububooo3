@@ -1,7 +1,7 @@
 <hr>
 
 ## Who even are you?
-> A person who tried web dev briefly in 2018 (and took related classes in following years), left it for game dev later that same initial year (2018), and decided to take game and software development a little more seriously after a few years coding and learning to navigate the semi-professional wild west that is the Roblox developer market.
+> A person who tried web dev briefly in 2018 (and took related classes in following years), left it for game dev later that same initial year (2018), and decided to take game and software development a little more seriously after a few years spent coding and learning to navigate the semi-professional wild west that is the Roblox developer market.
 
 ## What languages do you use?
 > Game development: Lua, Luau
