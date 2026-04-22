@@ -14,6 +14,8 @@
 
 ## What do you like to do?
 > I really like to sleep and learn and make people feel joy
+>
+> (Also...): Study math, read, challenge myself, run, help people grow
 
 ## Who is your favorite musician?
 > Billy Joel!
