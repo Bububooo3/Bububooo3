@@ -8,7 +8,7 @@
 > 
 > Software development: Lua, Java, C++, Python
 > 
-> Web development: HTML5, CSS, JS, TS, React, PostgreSQL
+> Web development: HTML5, CSS, JS/TS, SQL
 >
 > Esoteric: BF
 
