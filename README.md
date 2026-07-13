@@ -6,9 +6,9 @@
 ## What languages do you use?
 > Game development: Lua, Luau
 > 
-> Software development: Lua, Java, C++, Python
+> Software development: Lua, Java, C++, (+/- Python)
 > 
-> Web development: HTML5, CSS, JS/TS, SQL
+> Web development: HTML5, CSS, JS/TS, (+/- SQL)
 >
 > Esoteric: BF
 
