@@ -20,7 +20,8 @@
 > (Also...): Study math, read, challenge myself, run, help people grow
 
 ## Who is your favorite musician?
-> Billy Joel!
+> Either Billy Joel or Eminem!
+> Both amazing lyricists and storytellers!
 
 <hr>
 
